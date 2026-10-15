@@ -3,10 +3,6 @@
 ### Information Systems Student | Web Developer | Exploring AI & Cloud Computing
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanzades&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   Building digital experiences through web development, UI/UX, and emerging technologies.
 </p>
 
@@ -82,14 +78,6 @@ I'm an Information Systems student interested in building useful, accessible, an
 | Database Engineering | Data modeling, SQL, and backend integration |
 | Artificial Intelligence | Generative AI, prompt engineering, and AI workflows |
 | Cloud & Deployment | Hosting, environment configuration, and application deployment |
-
----
-
-### GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanzades&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
